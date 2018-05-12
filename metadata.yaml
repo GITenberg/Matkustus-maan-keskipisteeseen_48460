@@ -1,4 +1,8 @@
 _repo: Matkustus-maan-keskipisteeseen_48460
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -15,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48460#Matkustus-maan-keskipisteeseen
 gutenberg_issued: '2015-03-11'
 gutenberg_type: Text
 identifiers:
